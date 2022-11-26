@@ -47,7 +47,7 @@ Next we implemented 8 machine learning algorithms Linear Regression,lasso,ridge,
 The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
 # 📜 Credits
-Mahima Phalkey | Data Scientist | Machine Learning Engineer | Data Science enthusiast
+Lovejeet Singh | Data Scientist | Machine Learning Engineer | Data Science enthusiast
 
 Special thanks to AlmaBetter
 
